@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitemap.MVC", "Sitemap.MVC\Sitemap.MVC.csproj", "{35DC3D49-4ADF-4AB5-B7D8-31B6BF289CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitemap.MVC.Tests", "Sitemap.MVC.Tests\Sitemap.MVC.Tests.csproj", "{1DBBF034-9CEF-42A5-9695-7DA8059DDCA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DC3D49-4ADF-4AB5-B7D8-31B6BF289CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DC3D49-4ADF-4AB5-B7D8-31B6BF289CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DC3D49-4ADF-4AB5-B7D8-31B6BF289CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DC3D49-4ADF-4AB5-B7D8-31B6BF289CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBBF034-9CEF-42A5-9695-7DA8059DDCA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBBF034-9CEF-42A5-9695-7DA8059DDCA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBBF034-9CEF-42A5-9695-7DA8059DDCA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBBF034-9CEF-42A5-9695-7DA8059DDCA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
